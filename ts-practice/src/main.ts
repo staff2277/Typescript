@@ -65,4 +65,4 @@ let myfunc: MathOperation = {
   func: (a, b) => a * b,
 };
 
-myfunc.func("this is a string", 1);
+myfunc.func(1, 1);
